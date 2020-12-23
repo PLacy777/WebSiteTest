@@ -1,2 +1,2 @@
-FROM hsh/wepapp
+FROM hsh/webapp
 ADD . /var/www/html
